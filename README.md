@@ -42,27 +42,10 @@
 </p>
 <p align="center">
   [![GitHub][ghi]][ghu]
-  [![LinkedIn][li]][lu]
-  [![Stack Overflow][soi]][sou]
-  [![Gmail][gmi]][gmu]
-  [![Chess.com][ci]][cu]
-  [![Instagram][ii]][iu]
-  [![Facebook][fbi]][fbu]
 </p>
 
 
 [ghi]:  https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github
 [ghu]:  https://github.com/valentingregoire
-[li]:   https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin
-[lu]:   https://www.linkedin.com/in/valenting/
-[soi]:  https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white
-[sou]:  https://stackoverflow.com/users/2469425/valentin-gr%c3%a9goire?tab=profile
-[gmi]:  https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white
-[gmu]:  mailto:valentin.gregoire@gmail.com
-[ci]:   https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=white
-[cu]:   https://www.chess.com/member/mathvalg
-[ii]:   https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white
-[iu]:   https://www.instagram.com/tennegregoire/
-[fbi]:  https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white
-[fbu]:  https://www.facebook.com/Thanaatos/
+
 
