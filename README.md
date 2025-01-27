@@ -2,15 +2,20 @@
 
 I'm Valentin, a software engineer and product owner from Gent, Belgium. Take a look at my profile and hit me up if you would like to contact me.
 
+
 ## 📊 GitHub Stats
+
 [![My stats](https://github-readme-stats.vercel.app/api?username=valentingregoire&show_icons=true&theme=github_dark_dimmed&hide_border=true)](https://github.com/valentingregoire)
 
+
 ## 🧑🏻‍💻 Current personal projects
+
 [![SongbookTUI](https://github-readme-stats.vercel.app/api/pin/?username=valentingregoire&repo=SongbookTUI&theme=github_dark_dimmed&hide_border=true)](https://github.com/valentingregoire/SongbookTUI)
 [![Page Flipper](https://github-readme-stats.vercel.app/api/pin/?username=valentingregoire&repo=Page-Flipper&theme=github_dark_dimmed&hide_border=true)](https://github.com/valentingregoire/Page-Flipper)
 [![Wireless Midi Controller](https://github-readme-stats.vercel.app/api/pin/?username=valentingregoire&repo=wireless-midi-controller&theme=github_dark_dimmed&hide_border=true)](https://github.com/valentingregoire/wireless-midi-controller)
 
 [more...](https://github.com/valentingregoire?tab=repositories)
+
 
 ## 💬 Languages
 
@@ -21,7 +26,9 @@ I'm Valentin, a software engineer and product owner from Gent, Belgium. Take a l
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
+
 ## 🛠️ Tools
+
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux&logoColor=cccccc)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
 ![Gnome](https://img.shields.io/badge/Gnome-4A86CF?style=for-the-badge&logo=gnome&logoColor=white)
@@ -37,28 +44,26 @@ I'm Valentin, a software engineer and product owner from Gent, Belgium. Take a l
 
 ***
 
-### 🗣️ Talk to me
-
 <p align="center">
   <a href="https://github.com/valentingregoire">
-    <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github">
+    <img alt="GitHub" title="GitHub" height="32" width="32" src="https://cdn.simpleicons.org/github">
   </a>
   <a href="https://www.linkedin.com/in/valenting/">
-    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin">
+    <img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://cdn.simpleicons.org/linkedin">
   </a>
   <a href="https://stackoverflow.com/users/2469425/valentin-gr%c3%a9goire?tab=profile">
-    <img alt="Stack Overflow" title="Stack Overflow" height="48" width="48" src="https://cdn.simpleicons.org/stackoverflow">
+    <img alt="Stack Overflow" title="Stack Overflow" height="32" width="32" src="https://cdn.simpleicons.org/stackoverflow">
   </a>
   <a href="mailto:valentin.gregoire@gmail.com">
-    <img alt="Gmail" title="Gmail" height="48" width="48" src="https://cdn.simpleicons.org/gmail">
+    <img alt="Gmail" title="Gmail" height="32" width="32" src="https://cdn.simpleicons.org/gmail">
   </a>
   <a href="https://www.chess.com/member/mathvalg">
-    <img alt="Chess.com" title="Chess.com" height="48" width="48" src="https://cdn.simpleicons.org/chessdotcom">
+    <img alt="Chess.com" title="Chess.com" height="32" width="32" src="https://cdn.simpleicons.org/chessdotcom">
   </a>
   <a href="https://www.instagram.com/tennegregoire">
-    <img alt="Instagram" title="Instagram" height="48" width="48" src="https://cdn.simpleicons.org/instagram">
+    <img alt="Instagram" title="Instagram" height="32" width="32" src="https://cdn.simpleicons.org/instagram">
   </a>
   <a href="https://www.facebook.com/Thanaatos/">
-    <img alt="Facebook" title="Facebook" height="48" width="48" src="https://cdn.simpleicons.org/facebook">
+    <img alt="Facebook" title="Facebook" height="32" width="32" src="https://cdn.simpleicons.org/facebook">
   </a>
 </p>
