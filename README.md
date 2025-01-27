@@ -1,13 +1,15 @@
-## Hello, World! 🌍
+## 🌍 Hello, World!
 
-## GitHub Stats
+I'm Valentin, a software engineer and product owner from Gent, Belgium. Take a look at my profile and hit me up if you would like to contact me.
+
+## 📊 GitHub Stats
 [![My stats](https://github-readme-stats.vercel.app/api?username=valentingregoire&show_icons=true&theme=github_dark_dimmed&hide_border=true)](https://github.com/valentingregoire)
 
-## Current projects
+## 🧑🏻‍💻 Current personal projects
 [![Widi](https://github-readme-stats.vercel.app/api/pin/?username=valentingregoire&repo=Widi&theme=github_dark_dimmed&hide_border=true)](https://github.com/valentingregoire/Widi)
 [![SongbookTUI](https://github-readme-stats.vercel.app/api/pin/?username=valentingregoire&repo=SongbookTUI&theme=github_dark_dimmed&hide_border=true)](https://github.com/valentingregoire/SongbookTUI)
 
-## Languages
+## 💬 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/%E2%98%95%20Java-3178C6?style=for-the-badge&logoColor=white)
@@ -16,9 +18,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-
-
-## Tools
+## 🛠️ Tools
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux&logoColor=cccccc)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
 ![Gnome](https://img.shields.io/badge/Gnome-4A86CF?style=for-the-badge&logo=gnome&logoColor=white)
@@ -32,27 +32,16 @@
 ![ArangoDB](https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=arangodb&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-
-
 ***
 
-<p align="center">
-  Find me
-</p>
-<p align="center">
-  hello
-
-  
-  [![GitHub Profile][ghi]][ghu]
-  [![LinkedIn][li]][lu]
-  [![Stack Overflow][soi]][sou]
-  [![Gmail][gmi]][gmu]
-  [![Chess.com][ci]][cu]
-  [![Instagram][ii]][iu]
-  [![Facebook][fbi]][fbu]
-
-</p>
+### 🗣️ Talk to me
+[![GitHub Profile][ghi]][ghu]
+[![LinkedIn][li]][lu]
+[![Stack Overflow][soi]][sou]
+[![Gmail][gmi]][gmu]
+[![Chess.com][ci]][cu]
+[![Instagram][ii]][iu]
+[![Facebook][fbi]][fbu]
 
 [ghi]:  https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github
 [ghu]:  https://github.com/valentingregoire
@@ -68,5 +57,3 @@
 [iu]:   https://www.instagram.com/tennegregoire/
 [fbi]:  https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white
 [fbu]:  https://www.facebook.com/Thanaatos/
-
-
