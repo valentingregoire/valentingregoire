@@ -42,9 +42,6 @@
 </p>
 <p align="center">
   [![GitHub][ghi]][ghu]
-  [ghi]:  https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github
-  [ghu]:  https://github.com/valentingregoire
-  
   [![LinkedIn][li]][lu]
   [![Stack Overflow][soi]][sou]
   [![Gmail][gmi]][gmu]
@@ -54,6 +51,8 @@
 </p>
 
 
+[ghi]:  https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github
+[ghu]:  https://github.com/valentingregoire
 [li]:   https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin
 [lu]:   https://www.linkedin.com/in/valenting/
 [soi]:  https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white
