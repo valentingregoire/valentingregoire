@@ -6,8 +6,11 @@ I'm Valentin, a software engineer and product owner from Gent, Belgium. Take a l
 [![My stats](https://github-readme-stats.vercel.app/api?username=valentingregoire&show_icons=true&theme=github_dark_dimmed&hide_border=true)](https://github.com/valentingregoire)
 
 ## 🧑🏻‍💻 Current personal projects
-[![Widi](https://github-readme-stats.vercel.app/api/pin/?username=valentingregoire&repo=Widi&theme=github_dark_dimmed&hide_border=true)](https://github.com/valentingregoire/Widi)
 [![SongbookTUI](https://github-readme-stats.vercel.app/api/pin/?username=valentingregoire&repo=SongbookTUI&theme=github_dark_dimmed&hide_border=true)](https://github.com/valentingregoire/SongbookTUI)
+[![Page Flipper](https://github-readme-stats.vercel.app/api/pin/?username=valentingregoire&repo=SongbookTUI&theme=github_dark_dimmed&hide_border=true)](https://github.com/valentingregoire/Page-Flipper)
+[![Wireless Midi Controller](https://github-readme-stats.vercel.app/api/pin/?username=valentingregoire&repo=SongbookTUI&theme=github_dark_dimmed&hide_border=true)](https://github.com/valentingregoire/wireless-midi-controller)
+
+[more...](https://github.com/valentingregoire?tab=repositories)
 
 ## 💬 Languages
 
