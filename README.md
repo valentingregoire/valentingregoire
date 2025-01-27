@@ -35,25 +35,30 @@ I'm Valentin, a software engineer and product owner from Gent, Belgium. Take a l
 ***
 
 ### 🗣️ Talk to me
-[![GitHub Profile][ghi]][ghu]
-[![LinkedIn][li]][lu]
-[![Stack Overflow][soi]][sou]
-[![Gmail][gmi]][gmu]
-[![Chess.com][ci]][cu]
-[![Instagram][ii]][iu]
-[![Facebook][fbi]][fbu]
 
-[ghi]:  https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github
-[ghu]:  https://github.com/valentingregoire
-[li]:   https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin
-[lu]:   https://www.linkedin.com/in/valenting/
-[soi]:  https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white
-[sou]:  https://stackoverflow.com/users/2469425/valentin-gr%c3%a9goire?tab=profile
-[gmi]:  https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white
-[gmu]:  mailto:valentin.gregoire@gmail.com
-[ci]:   https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=white
-[cu]:   https://www.chess.com/member/mathvalg
-[ii]:   https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white
-[iu]:   https://www.instagram.com/tennegregoire/
-[fbi]:  https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white
-[fbu]:  https://www.facebook.com/Thanaatos/
+<p align="center">
+  <a href="https://github.com/valentingregoire">
+    <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github">
+  </a>
+  <a href="https://www.linkedin.com/in/valenting/">
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin">
+  </a>
+  <a href="https://stackoverflow.com/users/2469425/valentin-gr%c3%a9goire?tab=profile">
+    <img alt="Stack Overflow" title="Stack Overflow" height="48" width="48" src="https://cdn.simpleicons.org/stackoverflow">
+  </a>
+  <a href="mailto:valentin.gregoire@gmail.com">
+    <img alt="Gmail" title="Gmail" height="48" width="48" src="https://cdn.simpleicons.org/gmail">
+  </a>
+  <a href="https://www.chess.com/member/mathvalg">
+    <img alt="Chess.com" title="Chess.com" height="48" width="48" src="https://cdn.simpleicons.org/gmail">
+  </a>
+  <a href="mailto:valentin.gregoire@gmail.com">
+    <img alt="Gmail" title="Gmail" height="48" width="48" src="https://cdn.simpleicons.org/chessdotcom">
+  </a>
+  <a href="https://www.instagram.com/tennegregoire">
+    <img alt="Instagram" title="Instagram" height="48" width="48" src="https://cdn.simpleicons.org/instagram">
+  </a>
+  <a href="https://www.facebook.com/Thanaatos/">
+    <img alt="Facebook" title="Facebook" height="48" width="48" src="https://cdn.simpleicons.org/facebook">
+  </a>
+</p>
