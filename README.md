@@ -44,16 +44,14 @@
   [![GitHub][ghi]][ghu]
   
   [![LinkedIn][li]][lu]
+  
   [![Stack Overflow][soi]][sou]
   [![Gmail][gmi]][gmu]
   [![Chess.com][ci]][cu]
   [![Instagram][ii]][iu]
   [![Facebook][fbi]][fbu]
 
-  </p>
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/valentingregoire)
-
-
+</p>
 
 [ghi]:  https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github
 [ghu]:  https://github.com/valentingregoire
