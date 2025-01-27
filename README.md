@@ -42,5 +42,18 @@
 </p>
 <p align="center">
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/valentingregoire)
+  
   ![Static Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Fvalentingregoire)
+
+  [![GitHub][1]][2]
+
+  [![GitHub][ghi]][ghu]
 </p>
+
+
+
+[1]:  https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github
+[2]:  https://github.com/valentingregoire
+[ghi]:  https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github
+[ghu]:  https://github.com/valentingregoire
+
