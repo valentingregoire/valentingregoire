@@ -50,10 +50,7 @@ I'm Valentin, a software engineer and product owner from Gent, Belgium. Take a l
     <img alt="Gmail" title="Gmail" height="48" width="48" src="https://cdn.simpleicons.org/gmail">
   </a>
   <a href="https://www.chess.com/member/mathvalg">
-    <img alt="Chess.com" title="Chess.com" height="48" width="48" src="https://cdn.simpleicons.org/gmail">
-  </a>
-  <a href="mailto:valentin.gregoire@gmail.com">
-    <img alt="Gmail" title="Gmail" height="48" width="48" src="https://cdn.simpleicons.org/chessdotcom">
+    <img alt="Chess.com" title="Chess.com" height="48" width="48" src="https://cdn.simpleicons.org/chessdotcom">
   </a>
   <a href="https://www.instagram.com/tennegregoire">
     <img alt="Instagram" title="Instagram" height="48" width="48" src="https://cdn.simpleicons.org/instagram">
