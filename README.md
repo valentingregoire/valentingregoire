@@ -29,7 +29,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![ArangoDB](https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=arangodb&logoColor=black)mail
+![ArangoDB](https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=arangodb&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
@@ -42,14 +42,17 @@
 </p>
 <p align="center">
   [![GitHub][ghi]][ghu]
+  
   [![LinkedIn][li]][lu]
   [![Stack Overflow][soi]][sou]
   [![Gmail][gmi]][gmu]
   [![Chess.com][ci]][cu]
   [![Instagram][ii]][iu]
   [![Facebook][fbi]][fbu]
+
+  </p>
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/valentingregoire)
-</p>
+
 
 
 [ghi]:  https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github
