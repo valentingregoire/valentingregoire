@@ -42,9 +42,9 @@
 </p>
 <p align="center">
   [![GitHub][ghi]][ghu]
-  
+
+  [![GitHub Profile][ghi]][ghu]
   [![LinkedIn][li]][lu]
-  
   [![Stack Overflow][soi]][sou]
   [![Gmail][gmi]][gmu]
   [![Chess.com][ci]][cu]
