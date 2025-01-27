@@ -9,11 +9,11 @@
 
 ## Interests
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentingregoire&layout=pie&theme=github_dark&hide_border=true)](https://github.com/valentingregoire)
-
 This is my GitHub profile page. Some buzz words:
 * Vim
 * Python
 * Java
+* Web Development
 * Micro Controllers
+* Project Management
 * ...
