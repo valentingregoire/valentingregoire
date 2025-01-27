@@ -48,6 +48,7 @@
   [![Chess.com][ci]][cu]
   [![Instagram][ii]][iu]
   [![Facebook][fbi]][fbu]
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/valentingregoire)
 </p>
 
 
