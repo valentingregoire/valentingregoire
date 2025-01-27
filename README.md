@@ -29,19 +29,18 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![ArangoDB](https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=arangodb&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 
 
+***
 
-
-
-This is my GitHub profile page. Some buzz words:
-* Vim
-* Python
-* Java
-* Web Development
-* Micro Controllers
-* Engineering
-* Project Management
-* ...
+<p align="center">
+  Contact me
+</p>
+<p align="center">
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/valentingregoire)
+  ![Static Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Fvalentingregoire)
+</p>
