@@ -2,12 +2,6 @@
 
 I'm Valentin, a software engineer and product owner from Gent, Belgium. Take a look at my profile and hit me up if you would like to contact me.
 
-
-## 📊 GitHub Stats
-
-[![My stats](https://github-readme-stats.vercel.app/api?username=valentingregoire&show_icons=true&theme=github_dark_dimmed&hide_border=true)](https://github.com/valentingregoire)
-
-
 ## 🧑🏻‍💻 Current personal projects
 
 [![SongbookTUI](https://github-readme-stats.vercel.app/api/pin/?username=valentingregoire&repo=SongbookTUI&theme=github_dark_dimmed&hide_border=true)](https://github.com/valentingregoire/SongbookTUI)
@@ -41,6 +35,13 @@ I'm Valentin, a software engineer and product owner from Gent, Belgium. Take a l
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![ArangoDB](https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=arangodb&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+<details><summary>More stuff...</summary>
+## 📊 GitHub Stats
+
+[![My stats](https://github-readme-stats.vercel.app/api?username=valentingregoire&show_icons=true&theme=github_dark_dimmed&hide_border=true)](https://github.com/valentingregoire)
+</details>
 
 ***
 
