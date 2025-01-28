@@ -38,7 +38,7 @@ I'm Valentin, a software engineer and product owner from Gent, Belgium. Take a l
 
 
 <details><summary>More stuff...</summary>
-## 📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
 [![My stats](https://github-readme-stats.vercel.app/api?username=valentingregoire&show_icons=true&theme=github_dark_dimmed&hide_border=true)](https://github.com/valentingregoire)
 </details>
