@@ -58,7 +58,7 @@ I'm Valentin, a software engineer and product owner from Gent, Belgium. Take a l
   <a href="mailto:valentin.gregoire@gmail.com">
     <img alt="Gmail" title="Gmail" height="32" width="32" src="https://cdn.simpleicons.org/gmail">
   </a>
-  <a href="https://www.chess.com/member/mathvalg">
+  <a href="https://www.chess.com/member/valentingregoire">
     <img alt="Chess.com" title="Chess.com" height="32" width="32" src="https://cdn.simpleicons.org/chessdotcom">
   </a>
   <a href="https://www.instagram.com/tennegregoire">
