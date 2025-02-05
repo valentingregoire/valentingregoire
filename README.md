@@ -1,16 +1,17 @@
-## 🌍 Hello, World!
+## 🌍 Hello, World
 
 I'm Valentin, a software engineer and product owner from Gent, Belgium. Take a look at my profile and hit me up if you would like to contact me.
 
 ## 🧑🏻‍💻 Current personal projects
 
+[![Dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=valentingregoire&repo=dotfiles&theme=github_dark_dimmed&hide_border=true)](https://github.com/valentingregoire/dotfiles)
+[![AstroNvim](https://github-readme-stats.vercel.app/api/pin/?username=valentingregoire&repo=astronvim&theme=github_dark_dimmed&hide_border=true)](https://github.com/valentingregoire/astronvim)
 [![SongbookTUI](https://github-readme-stats.vercel.app/api/pin/?username=valentingregoire&repo=SongbookTUI&theme=github_dark_dimmed&hide_border=true)](https://github.com/valentingregoire/SongbookTUI)
 [![Page Flipper](https://github-readme-stats.vercel.app/api/pin/?username=valentingregoire&repo=Page-Flipper&theme=github_dark_dimmed&hide_border=true)](https://github.com/valentingregoire/Page-Flipper)
 [![Wireless Midi Controller Remote](https://github-readme-stats.vercel.app/api/pin/?username=valentingregoire&repo=wireless-midi-controller-remote&theme=github_dark_dimmed&hide_border=true)](https://github.com/valentingregoire/wireless-midi-controller-remote)
 [![Wireless Midi Controller Servant](https://github-readme-stats.vercel.app/api/pin/?username=valentingregoire&repo=wireless-midi-controller-servant&theme=github_dark_dimmed&hide_border=true)](https://github.com/valentingregoire/wireless-midi-controller-servant)
 
 [more...](https://github.com/valentingregoire?tab=repositories)
-
 
 ## 💬 Languages
 
@@ -20,7 +21,6 @@ I'm Valentin, a software engineer and product owner from Gent, Belgium. Take a l
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
 
 ## 🛠️ Tools
 
@@ -36,7 +36,6 @@ I'm Valentin, a software engineer and product owner from Gent, Belgium. Take a l
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![ArangoDB](https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=arangodb&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
 
 <details><summary>More stuff...</summary>
 <h2>📊 GitHub Stats</h2>
@@ -68,4 +67,7 @@ I'm Valentin, a software engineer and product owner from Gent, Belgium. Take a l
   <a href="https://www.facebook.com/Thanaatos/">
     <img alt="Facebook" title="Facebook" height="32" width="32" src="https://cdn.simpleicons.org/facebook">
   </a>
+</p>
+<p align="center">
+  <a href="https://github.com/valentingregoire/valentingregoire/blob/main/README.md">Source code</a>
 </p>
